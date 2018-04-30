@@ -1,0 +1,34 @@
+{
+  "teachers": [
+    {
+      "name": "Christopher Lewis",
+      "description": "B.A. in Social Science with emphasis in History, CSULA<br>8+ years teaching experience",
+      "image_url": "images/teacherImage/teacher_0.png"
+    },
+    {
+      "name": "James Hayashi",
+      "description": "M.A. in Literature, USC<br>B.A. in English and Psychobiology, UCLA<br>USC English Lecturer",
+      "image_url": "images/teacherImage/teacher_1.png"
+    },
+    {
+      "name": "Jeff Brandts",
+      "description": "M.A. Education Program, California State Polytechnic University, Pomona<br>B.A. in Business Administration, CSU Fullerton<br>Foundational Math Credential",
+      "image_url": "images/teacherImage/teacher_2.png"
+    },
+    {
+      "name": "Ron Morales",
+      "description": "J.D. at American University, Cum Laude<br>M.A. in Philosophy, UC Irvine<br>B.A. in Philosophy, Westmont College",
+      "image_url": "images/teacherImage/teacher_3.png"
+    },
+    {
+      "name": "Mark Fang",
+      "description": "M.S. in Software Engineering, Azusa Pacific University<br>B.S. in Mathematics of Computation, UCLA<br>19+ years SAT teaching experience",
+      "image_url": "images/teacherImage/teacher_4.png"
+    },
+    {
+      "name": "Max Murphy",
+      "description": "Ph. D Candidate, UC Riverside<br>M.A. in Philosophy, UC Riverside<br>B.A. in Mathematics and Philosophy, Columbia University",
+      "image_url": "images/teacherImage/teacher_5.png"
+    }
+  ]
+}

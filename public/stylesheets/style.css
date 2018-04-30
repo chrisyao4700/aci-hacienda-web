@@ -1,0 +1,23 @@
+
+
+
+strong#brand_dot{
+  color: orange;
+}
+#middle-general-intro{
+  margin-bottom: 35px;
+}
+#faculty_img{
+  border-radius: 50%;
+}
+p#instructor-block{
+  margin-top: 10px;
+}
+div#course-box{
+  opacity: 100;
+}
+
+div#login-form-cover{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}

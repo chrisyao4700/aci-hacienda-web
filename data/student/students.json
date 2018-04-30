@@ -1,0 +1,40 @@
+{
+  "students":[
+    {
+      "name":"Jozanne Murphy",
+      "description":"- University of Pennsylvania",
+      "image_url":"images/studentImage/student_0.png",
+      "text_url":"/data/student/student_txt/student_0.txt"
+    },
+    {
+      "name":"Peter Chen",
+      "description":"- Princeton University - SAT 2400",
+      "image_url":"images/studentImage/student_1.png",
+      "text_url":"/data/student/student_txt/student_1.txt"
+    },
+    {
+      "name":"Sabina Chen",
+      "description":"- MIT ($244,000 total scholarship)",
+      "image_url":"images/studentImage/student_2.png",
+      "text_url":"/data/student/student_txt/student_2.txt"
+    },
+    {
+      "name":"Bruce Tiu",
+      "description":"- Stanford University - SAT 2400",
+      "image_url":"images/studentImage/student_3.png",
+      "text_url":"/data/student/student_txt/student_3.txt"
+    },
+    {
+      "name":"Felipe Acevedo",
+      "description":"- Dartmouth College",
+      "image_url":"images/studentImage/student_4.png",
+      "text_url":"/data/student/student_txt/student_4.txt"
+    },
+    {
+      "name":"Nahlee Lin",
+      "description":"- Standard University -SAT 2400",
+      "image_url":"images/studentImage/student_5.png",
+      "text_url":"/data/student/student_txt/student_5.txt"
+    }
+  ]
+}

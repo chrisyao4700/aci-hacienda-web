@@ -1,0 +1,27 @@
+<div class="fh5co-features-style-1" style="background-image: url(images/instructor_bg.png);"
+     data-stellar-background-ratio="0.5" id="instructor-broad">
+    <div class="fh5co-overlay"></div>
+    <div class="container" style="z-index: 3; position: relative;">
+        <div class="row p-b">
+            <div class="col-md-6 col-md-offset-3 text-center wow fadeInUp" data-wow-duration="1s"
+                 data-wow-delay=".5s">
+                <h2 class="fh5co-heading">Our Instructor</h2>
+                <p id="instructor-block">Our highly-trained teachers have tons of class experience and provide a fun and nurturing learning environment.
+                    We do believe that An accomplished disciple owes his accomplishment to his great teacher.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="fh5co-features">
+                <% for(var j = 0; j < teachers.length; j++){ %>
+
+                <div class="fh5co-feature wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">
+                    <img src=<%= teachers[j].image_url %> alt="<%= teachers[j].name %>" id="faculty_img">
+                    <h3 style="margin-top:  10px"> <%= teachers[j].name %></h3>
+                    <p><%- teachers[j].description %></p>
+                </div>
+                <% } %>
+
+            </div>
+        </div>
+    </div>
+</div>
